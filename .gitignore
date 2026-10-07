@@ -1,0 +1,10 @@
+build/
+target/
+*.o
+*.a
+*.so
+*.d
+.env
+.env.*
+*.pem
+*.key
